@@ -41,7 +41,7 @@ Both models were implemented using PyTorch, a versatile deep learning library. T
 - Epoch 8, Loss: 1.176611542777942
 - Epoch 9, Loss: 1.1500847124687545
 - Epoch 10, Loss: 1.1191354838326155
-- Accuracy on the test set: 50.88%
+- Accuracy on the test set: **50.88%**
 
 
 ### CNN Results:
@@ -56,7 +56,7 @@ Both models were implemented using PyTorch, a versatile deep learning library. T
 - Epoch 8, Loss: 0.47003701582665336
 - Epoch 9, Loss: 0.3908858009521156
 - Epoch 10, Loss: 0.32599819942241737
-- Accuracy on the test set: 68.8%
+- Accuracy on the test set: **68.8%**
 
 
 ## Discussion
