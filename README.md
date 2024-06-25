@@ -31,32 +31,32 @@ Both models were implemented using PyTorch, a versatile deep learning library. T
 
 ### ANN Results:
 
--Epoch 1, Loss: 1.6638274238542523
--Epoch 2, Loss: 1.4803416328052121
--Epoch 3, Loss: 1.3915066207613787
--Epoch 4, Loss: 1.3349204066464357
--Epoch 5, Loss: 1.2865449158889253
--Epoch 6, Loss: 1.2474587544455857
--Epoch 7, Loss: 1.2107476574533127
--Epoch 8, Loss: 1.176611542777942
--Epoch 9, Loss: 1.1500847124687545
--Epoch 10, Loss: 1.1191354838326155
--Accuracy on the test set: 50.88%
+- Epoch 1, Loss: 1.6638274238542523
+- Epoch 2, Loss: 1.4803416328052121
+- Epoch 3, Loss: 1.3915066207613787
+- Epoch 4, Loss: 1.3349204066464357
+- Epoch 5, Loss: 1.2865449158889253
+- Epoch 6, Loss: 1.2474587544455857
+- Epoch 7, Loss: 1.2107476574533127
+- Epoch 8, Loss: 1.176611542777942
+- Epoch 9, Loss: 1.1500847124687545
+- Epoch 10, Loss: 1.1191354838326155
+- Accuracy on the test set: 50.88%
 
 
 ### CNN Results:
 
--Epoch 1, Loss: 1.6253152591798006
--Epoch 2, Loss: 1.1869458079795399
--Epoch 3, Loss: 0.9842461414654237
--Epoch 4, Loss: 0.853221153549831
--Epoch 5, Loss: 0.7415234768939445
--Epoch 6, Loss: 0.6431446090683608
--Epoch 7, Loss: 0.5566578101547782
--Epoch 8, Loss: 0.47003701582665336
--Epoch 9, Loss: 0.3908858009521156
--Epoch 10, Loss: 0.32599819942241737
--Accuracy on the test set: 68.8%
+- Epoch 1, Loss: 1.6253152591798006
+- Epoch 2, Loss: 1.1869458079795399
+- Epoch 3, Loss: 0.9842461414654237
+- Epoch 4, Loss: 0.853221153549831
+- Epoch 5, Loss: 0.7415234768939445
+- Epoch 6, Loss: 0.6431446090683608
+- Epoch 7, Loss: 0.5566578101547782
+- Epoch 8, Loss: 0.47003701582665336
+- Epoch 9, Loss: 0.3908858009521156
+- Epoch 10, Loss: 0.32599819942241737
+- Accuracy on the test set: 68.8%
 
 
 ## Discussion
